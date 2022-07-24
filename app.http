@@ -1,0 +1,6 @@
+delete http://localhost:3000/tweets/3/
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyTmFtZSI6IkpvZUJpZGVuIiwiaWF0IjoxNjU4NTU1Mzg2fQ.P0AYFkpliRPCM1WaqgK7xI16VDUg4NJ0L3xsbEIHaxQ
+
+
+
+####
